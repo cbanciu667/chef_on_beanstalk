@@ -1,4 +1,4 @@
-# cos_windows_base
+# CHEF integrations with AWS Beanstalk instances
 
 Cookbook for integrating chef with AWS Beanstalk Windows instances
 requirements by using Powershell and .ebextensions:
